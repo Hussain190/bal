@@ -1,2 +1,3 @@
 # Sks 
 # test
+* pkg install 
