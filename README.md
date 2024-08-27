@@ -1,3 +1,3 @@
 # Sks 
 # test
-© pkg install 
+# {"pkg install"} 
